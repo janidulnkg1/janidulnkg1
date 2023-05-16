@@ -33,8 +33,6 @@ Here are some of the skills and technologies I work with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="50" height="50"> React
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svgg" alt="php Logo" width="50" height="50"> php
-
 # Machine Learning and Artificial Intelligence
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"> Python
 
