@@ -4,10 +4,12 @@
 
 ## About Me
 
-Hello! I'm Janidu Lankage, and this is my GitHub profile. I'm a passionate software developer with expertise in backend and frontend technologies, as well as machine learning and artificial intelligence. I enjoy working on a wide range of projects and constantly expanding my skill set. 
+Hello! I'm Janidu Lankage. I'm a final year undergraduate following BSc (Hons) Software Engineering offered by Cardiff Metropolitan University. I'm a passionate software developer with expertise in backend and frontend technologies, as well as Machine learning and Artificial intelligence. I enjoy working on a wide range of projects and constantly expanding my skill set. 
 
 ## Skills
 Here are some of the skills and technologies I work with:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janidulnkg1)](https://github.com/anuraghazra/github-readme-stats)
 
 # Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"> Java
