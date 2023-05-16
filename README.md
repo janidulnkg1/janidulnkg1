@@ -7,25 +7,25 @@ Hello! I'm Janidu Lankage, and this is my GitHub profile. I'm a passionate softw
 Here are some of the skills and technologies I work with:
 
 # Backend
-Java 
-REST API 
-.NET Core Stack (ASP.NET Core and C#.NET Core)
-MySQL
-Microsoft SQL Server
+Java https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg 
+Spring Boot https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg
+.NET Core Stack (ASP.NET Core and C#.NET Core) https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg
+MySQL https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+Microsoft SQL Server https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg
 
 # Frontend
-HTML5
-CSS
-JavaScript
-Bootstrap
-ReactJS with Node.js
+HTML5 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+CSS ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+JavaScript https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+Bootstrap https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg
+ReactJS with Node.js https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 
 # Machine Learning and Artificial Intelligence
-Python
-TensorFlow
+Python https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+TensorFlow https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg 
 
 #Analytics
-R Studio
+R Studio https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg
 Data visualization
 Statistical analysis
 
