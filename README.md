@@ -12,11 +12,13 @@ Here are some of the skills and technologies I work with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janidulnkg1)](https://github.com/anuraghazra/github-readme-stats)
 
 # Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".Net Core Logo" width="50" height="50"> dot NET Core
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"> Python
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"> Java
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Springboot Logo" width="50" height="50"> Spring Boot
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".Net Core Logo" width="50" height="50"> dot NET Core
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="50" height="50"> MySQL
 
