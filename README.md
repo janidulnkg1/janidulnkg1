@@ -36,16 +36,16 @@ Here are some of the skills and technologies I work with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="50" height="50"> React
 
 # Machine Learning and Artificial Intelligence
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"> Python
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Logo" width="50" height="50"> Tensorflow
 
+<img src="https://logowik.com/content/uploads/images/pandas8580.logowik.com.webp" alt="Pandas Logo" width="50" height="50"> Pandas
+
+<img src="https://logowik.com/content/uploads/images/numpy9166.logowik.com.webp" alt="NumPy Logo" width="50" height="50"> NumPy
+
+
 # Analytics
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Logo" width="50" height="50"> R Studio
-
-Data visualization
-
-Statistical analysis
 
 # Contact Me
 If you have any questions, suggestions, or potential collaboration ideas, please feel free to reach out to me. You can contact me through the following channels:
