@@ -37,7 +37,7 @@ Here are some of the skills and technologies I work with:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwindcss Logo" width="50" height="50"> Tailwind CSS
 
-# Machine Learning and Artificial Intelligence
+# Machine Learning , Artificial Intelligence , Analytics
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Logo" width="50" height="50"> Tensorflow
 
@@ -45,8 +45,6 @@ Here are some of the skills and technologies I work with:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="50" height="50"> NumPy
 
-
-# Analytics
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Logo" width="50" height="50"> R Studio
 
 # Contact Me
