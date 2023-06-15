@@ -35,13 +35,15 @@ Here are some of the skills and technologies I work with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="50" height="50"> React
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwindcss Logo" width="50" height="50"> Tailwind CSS
+
 # Machine Learning and Artificial Intelligence
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Logo" width="50" height="50"> Tensorflow
 
-<img src="https://logowik.com/content/uploads/images/pandas8580.logowik.com.webp" alt="Pandas Logo" width="50" height="50"> Pandas
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="50" height="50"> Pandas
 
-<img src="https://logowik.com/content/uploads/images/numpy9166.logowik.com.webp" alt="NumPy Logo" width="50" height="50"> NumPy
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="50" height="50"> NumPy
 
 
 # Analytics
