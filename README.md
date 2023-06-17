@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a final year undergraduate following BSc (Hons) Software Engineering offered by Cardiff Metropolitan University. I'm a passionate software developer with expertise in backend and frontend technologies, as well as Machine learning and Artificial intelligence. I enjoy working on a wide range of projects and constantly expanding my skill set. 
+I'm a final year undergraduate following BSc (Hons) Software Engineering. I'm a passionate software engineer with expertise in backend and frontend technologies, as well as Machine learning and Artificial intelligence. I enjoy working on a wide range of projects and constantly expanding my skill set. 
 
 ## Skills
 Here are some of the skills and technologies I work with:
