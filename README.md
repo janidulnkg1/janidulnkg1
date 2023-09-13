@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a final year undergraduate following BSc (Hons) Software Engineering. I'm a passionate software engineer with expertise in backend and frontend technologies, as well as Machine learning and Artificial intelligence. I enjoy working on a wide range of projects and constantly expanding my skill set. 
+I'm a final year undergraduate following BSc (Hons) Software Engineering. I'm a passionate software engineer with expertise in backend (C#: .Net Core, ASP.Net Core etc; Java : Springboot etc.) and frontend technologies (HTML5, CSS3, JavaScript: JQuery/ AJAX, php, React etc.) as well as Machine learning and Artificial intelligence. I enjoy working on a wide range of projects and constantly expanding my skill set. 
 
 ## Skills
 Here are some of the skills and technologies I work with:
