@@ -33,6 +33,8 @@ Here are some of the skills and technologies I work with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"> JavaScript
 
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript Logo" width="50" height="50"> TypeScript
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"> Bootstrap
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="50" height="50"> React
@@ -47,7 +49,11 @@ Here are some of the skills and technologies I work with:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="50" height="50"> NumPy
 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="Pytorch Logo" width="50" height="50"> Pytorch
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Logo" width="50" height="50"> R Studio
+
+<img src="https://www.vectorlogo.zone/logos/qgis/qgis-official.svg" alt="QGIS Logo" width="50" height="50"> QGIS
 
 # Contact Me
 If you have any questions, suggestions, or potential collaboration ideas, please feel free to reach out to me. You can contact me through the following channels:
