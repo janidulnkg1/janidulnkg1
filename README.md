@@ -4,9 +4,15 @@
 
 ## About Me
 
-I'm a final year undergraduate following BSc (Hons) Software Engineering. I'm a passionate software engineer with expertise in backend (C#: .Net Core, ASP.Net Core; Java : Springboot / Hibernate etc.) and frontend technologies (HTML5, CSS3, JavaScript: JQuery/ AJAX, php, React.js/Typescript etc.) as well as Machine learning and Artificial intelligence. I enjoy working on a wide range of projects and constantly expanding my skill set. 
+I'm a final year undergraduate following BSc (Hons) Software Engineering. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janidulnkg1&theme=radical)
+I'm a passionate software engineer with expertise in:
+BACKEND : C#, .Net Core, ASP.Net Core; Java : Springboot / Hibernate.
+FRONTEND: HTML5, CSS3, JavaScript: JQuery, AJAX, php, React.js, Typescript etc.) 
+Machine learning and Artificial intelligence. 
+
+I enjoy working on a wide range of projects and constantly expanding my skill set. 
+
 
 ## Skills
 Here are some of the skills and technologies I work with:
