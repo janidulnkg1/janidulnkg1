@@ -12,9 +12,7 @@ BACKEND : C#, .Net Core, ASP.Net Core; Java : Springboot / Hibernate.
 
 FRONTEND: HTML5, CSS3, JavaScript: JQuery, AJAX, php, React.js, Typescript etc.) 
 
-Machine learning and Artificial intelligence. 
-
-I enjoy working on a wide range of projects and constantly expanding my skill set. 
+Machine Learning and Artificial intelligence: TensorFlow, PyTorch, Yolo 
 
 
 ## Skills
