@@ -12,6 +12,8 @@ Behold my arsenal of digital wizardry:
 
 - **FRONTEND**: I'm not just a coder; I'm an artist of the web, painting with HTML5, CSS3, JavaScript, jQuery, AJAX, PHP, React.js, and TypeScript. My canvas has no boundaries.
 
+- **MOBILE DEVELOPMENT**: I can provide innovation on your finger tips.
+
 - **Machine Learning and Artificial Intelligence**: Unveiling the mysteries of AI and ML is my secret passion. With TensorFlow, PyTorch, and YOLO, I'm on a mission to make machines dream.
 
 So, if you're seeking a co-conspirator to breathe life into your digital dreams, you're in the right place. Join me on an exhilarating journey through the realms of code, where the impossible becomes reality. Let's craft some digital magic together! 🧙‍♂️✨
