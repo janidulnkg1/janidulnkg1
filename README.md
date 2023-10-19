@@ -52,6 +52,14 @@ And remember, in the world of bytes and bits, I'm your trusted guide. Dive into 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwindcss Logo" width="50" height="50"> Tailwind CSS
 
+#### Mobile Dev Innovation
+
+<img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio logo" width="50" height="50"> Android Studio
+
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-color-tal-revivo.png" alt="Flutter Logo"  width="50" height="50"> Flutter
+
+<img src="https://img.icons8.com/cute-clipart/64/react-native.png" alt="react-native logo" width="50" height="50"> React-Native
+
 #### Machine Learning, AI, and Analytics
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Logo" width="50" height="50"> Tensorflow
