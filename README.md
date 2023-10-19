@@ -12,7 +12,7 @@ Behold my arsenal of digital wizardry:
 
 - **FRONTEND**: I'm not just a coder; I'm an artist of the web, painting with HTML5, CSS3, JavaScript, jQuery, AJAX, PHP, React.js, and TypeScript. My canvas has no boundaries.
 
-- **MOBILE DEVELOPMENT**: I can provide innovation on your finger tips.
+- **MOBILE DEVELOPMENT**: I can provide innovation at your finger tips,  using : Android Studio, as well as Flutter and React-Native for Cross-Platform Development.
 
 - **Machine Learning and Artificial Intelligence**: Unveiling the mysteries of AI and ML is my secret passion. With TensorFlow, PyTorch, and YOLO, I'm on a mission to make machines dream.
 
