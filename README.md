@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm not your run-of-the-mill coding enthusiast. I'm a final-year undergraduate on a quest to conquer a BSc (Hons) in Software Engineering. But my story isn't just about textbooks and exams. I'm a passionate software sorcerer, weaving spells with my keystrokes, bringing your wildest tech dreams to life.
+I'm not your run-of-the-mill coding enthusiast. My story isn't just about textbooks and exams. I'm a passionate software sorcerer, weaving spells with my keystrokes, bringing your wildest tech dreams to life.
 
 Behold my arsenal of digital wizardry:
 
