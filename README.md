@@ -12,9 +12,6 @@ Behold my arsenal of digital wizardry:
 
 - **FRONTEND**: I'm not just a coder; I'm an artist of the web, painting with HTML5, CSS3, JavaScript, jQuery, AJAX, PHP, React.js, and TypeScript. My canvas has no boundaries.
 
-- **MOBILE DEVELOPMENT**: I can provide innovation at your finger tips,  using : Android Studio, as well as Flutter and React-Native for Cross-Platform Development.
-
-- **Machine Learning and Artificial Intelligence**: Unveiling the mysteries of AI and ML is my secret passion. With TensorFlow, PyTorch, and YOLO, I'm on a mission to make machines dream.
 
 So, if you're seeking a co-conspirator to breathe life into your digital dreams, you're in the right place. Join me on an exhilarating journey through the realms of code, where the impossible becomes reality. Let's craft some digital magic together! 🧙‍♂️✨
 
@@ -54,27 +51,6 @@ And remember, in the world of bytes and bits, I'm your trusted guide. Dive into 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwindcss Logo" width="50" height="50"> Tailwind CSS
 
-#### Mobile Dev Innovation
-
-<img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio logo" width="50" height="50"> Android Studio
-
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-color-tal-revivo.png" alt="Flutter Logo"  width="50" height="50"> Flutter
-
-<img src="https://img.icons8.com/cute-clipart/64/react-native.png" alt="react-native logo" width="50" height="50"> React-Native
-
-#### Machine Learning, AI, and Analytics
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Logo" width="50" height="50"> Tensorflow
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="50" height="50"> Pandas
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="50" height="50"> NumPy
-
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="Pytorch Logo" width="50" height="50"> Pytorch
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Logo" width="50" height="50"> R Studio
-
-<img src="https://www.vectorlogo.zone/logos/qgis/qgis-official.svg" alt="QGIS Logo" width="50" height="50"> QGIS
 
 ### Connect with Me 🌐
 
